@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 93.148 s <<< FAILURE! - in pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest
+rejestracjaSkrzatyBezZaswiadczeniaLekarskiego  Time elapsed: 11.783 s  <<< FAILURE!
+java.lang.AssertionError: Test zakonczony negatywnie
+	at pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest.rejestracjaSkrzatyBezZaswiadczeniaLekarskiego(SeleniumTest.java:129)
+
+rejestracjaSeniorBezZaswiadczeniaLekarskiego  Time elapsed: 11.991 s  <<< FAILURE!
+java.lang.AssertionError: Test zakonczony negatywnie
+	at pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest.rejestracjaSeniorBezZaswiadczeniaLekarskiego(SeleniumTest.java:111)
+
+rejestracjaJuniorBezZaswiadczeniaLekarskiego  Time elapsed: 8.55 s  <<< FAILURE!
+java.lang.AssertionError: Test zakonczony negatywnie
+	at pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest.rejestracjaJuniorBezZaswiadczeniaLekarskiego(SeleniumTest.java:135)
+
+rejestracjaJuniorBezZgodyRodzicow  Time elapsed: 7.831 s  <<< FAILURE!
+java.lang.AssertionError: Test zakonczony negatywnie
+	at pl.us.edu.aptwmz.SeleniumWebDriverTest.SeleniumTest.rejestracjaJuniorBezZgodyRodzicow(SeleniumTest.java:123)
+
